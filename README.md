@@ -116,8 +116,7 @@ namespace RifeAPI.Controllers
                 throw ex;
             }
         }
-
-
-
     }
 }
+
+Note :-- After this process for store output make the RifePrint.xml File in wwwroot Folder
