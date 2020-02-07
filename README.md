@@ -11,7 +11,7 @@ using System.Xml.Linq;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
 using RifeAPI.Models;
-[start]
+
 namespace RifeAPI.Controllers
 {
     [Route("api/[controller]")]
